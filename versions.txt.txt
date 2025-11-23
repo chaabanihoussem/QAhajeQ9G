@@ -1,0 +1,2 @@
+airmotionDevice:2.0.0
+airmotionDongle:1.1.0
